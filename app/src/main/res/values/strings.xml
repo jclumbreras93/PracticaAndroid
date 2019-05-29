@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lumbreras_Diaz_JuanCarlos_Practica1</string>
+    <string-array name="lista">
+        <item>Facil</item>
+        <item>Medio</item>
+        <item>Dificil</item>
+    </string-array>
+    <string-array name="Codigolista">
+        <item>F</item>
+        <item>M</item>
+        <item>D</item>
+    </string-array>
+
+</resources>
